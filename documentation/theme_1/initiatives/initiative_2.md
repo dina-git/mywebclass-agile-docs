@@ -1,21 +1,20 @@
 ## Initiative 2:  Improve website loading speed and performance
 
-* Description: Integrate web conferencing tools for online classes
-* Goals: Enhance the online learning experience and increase participation in online classes
-* Scope: Identify and integrate web conferencing tools that are user-friendly and accessible
-* Outcomes: Improved user experience and increased usage of online classes and resources
-* Deliverables: Research report, web conferencing tool integration plan, and functional integration of web conferencing tools
-* Milestones: Complete research report within 2 weeks, complete integration plan within 4 weeks, complete functional integration of web conferencing tools within 8 weeks
-* Constraints: Must adhere to accessibility and usability guidelines, must be compatible with multiple devices and platforms
-* Assumptions: Web conferencing tools will enhance the online learning experience and increase participation in online classes
-* Risks: Integration of web conferencing tools may not go as planned, compatibility issues may arise with certain devices or platforms
-* Dependencies: Development of the new interface, availability of web conferencing tools
-* Team: Front-end Developer, Back-end Developer, Product Manager
+* Description: Improve website speed and performance
+* Goals: Increase website speed and performance to provide a better user experience and improve search engine rankings
+* Scope: This initiative will cover the analysis, optimization, and implementation of website speed and performance improvements
+* Outcomes: Improved website speed and performance will lead to increased user engagement and better search engine rankings
+* Deliverables: Optimized website code, website speed test results
+* Milestones: Complete website speed analysis, implement optimization changes, test website speed and performance
+* Constraints: Limited budget for optimization tools and services
+* Assumptions: Website speed and performance is a key factor in user engagement and search engine rankings
+* Risks: Optimization changes may not have a significant impact on website speed and performance
+* Dependencies: None
+* Team: Front-end developer, website performance analyst, project manager
 
 ## Epics
 * [Optimize website loading speed](epics/epic_1.2.md)
 
 ## Test plan
-* User testing to ensure ease of use and accessibility of web conferencing tools.
-* Lighthouse and W3C validation to ensure website accessibility and usability.
-* GDPR Scanner to ensure compliance with data protection laws.
+* Test website speed and performance before and after optimization to ensure improvement
+* Use a website speed testing tool to identify potential issues and areas for improvement

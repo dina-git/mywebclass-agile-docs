@@ -5,8 +5,8 @@ By developing an intuitive course management system and integrating assessment t
 This will enable us to save time and focus on teaching. By following the Scrum methodology and continuous testing principles, we can quickly and effectively develop a website that meets the needs of our users, setting us up for long-term success."
 ## Initiative(s)
 
-* [Implement personalized course recommendations.](initiatives/initiative1.md)
-* [Develop social learning features](initiatives/initiative2.md)
+* [Implement personalized course recommendations.](initiatives/initiative_1.md)
+* [Develop social learning features](initiatives/initiative_2.md)
 
 
 ## Test plan

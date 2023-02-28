@@ -1,16 +1,14 @@
-# Theme 2.0: Enable personalized user experience
+# Theme 2.0: Legal
 ## Overview
-"As an educator, I want to easily create and manage courses and assessments, so that I can provide quality education to my students.
-By developing an intuitive course management system and integrating assessment tools, we can simplify the process of creating and grading assignments.
-This will enable us to save time and focus on teaching. By following the Scrum methodology and continuous testing principles, we can quickly and effectively develop a website that meets the needs of our users, setting us up for long-term success."
+"As a user, I want my personal data to be protected when I use the website so that I can feel confident that my information is being handled appropriately. By reviewing all data collected by the website and implementing a privacy policy that outlines how user data is collected, stored, and used, we can comply with data protection laws and provide users with the necessary transparency and control. This will enable us to build trust with our users and establish ourselves as a responsible organization. By following legal principles and standards, we can deliver a website that protects user data and meets regulatory requirements, setting us up for long-term compliance and success."
+
 ## Initiative(s)
 
-* [Implement personalized course recommendations.](intiatives/initiative_1.md)
-* [Develop social learning features](intiatives/initiative_2.md)
+* [Compliance with Data Protection Laws](intiatives/initiative_1.md)
+* [Compliance with Cookie Laws](intiatives/initiative_2.md)
 
 
 ## Test plan
-User testing to ensure ease of course and assessment creation and management.
-Lighthouse and W3C validation to ensure website accessibility and usability.
-GDPR Scanner to ensure compliance with data protection laws.
-Testing of assessment tools to ensure accurate grading and feedback.
+* Test compliance with data protection laws by conducting an internal audit of the website's data collection and processing practices.
+* Test the effectiveness of the privacy policy by providing users with clear and concise information on how their data is being used and obtaining their consent where necessary.
+* Test compliance with cookie laws by implementing a cookie notice and providing users with the ability to manage their cookie preferences.

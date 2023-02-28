@@ -1,13 +1,13 @@
-# Theme 1.0: 	Improve website usability and design
-"As a student, I want to easily access educational resources and participate in online classes, so that I can learn from anywhere at any time. By developing a user-friendly interface and integrating web conferencing tools, we can create a dynamic online learning environment.
-This will enable us to expand our reach and provide more opportunities for education to people who may not have access otherwise.
-By following the Agile methodology and user-centered design principles, we can quickly and effectively develop a website that meets the needs of our users, setting us up for long-term success."
+# Theme 1.0: 	Development
+"As a user, I want to easily find what I am looking for on the webpage so that I can efficiently navigate the website and find the information I need. By conducting a card sorting exercise and implementing a new navigation structure with clear and concise labels, we can improve searchability and pass W3C validation, Lighthouse, and GDPR Scanner. This will enable us to provide a user-friendly experience and enhance website performance. By following Agile principles, we can quickly and effectively deliver a more usable webpage, setting us up for long-term success."
+
+
 ## Initiative(s)
 
-* [Enhance website layout and visual design](initiatives/initiative_1.md)
-* [Improve website loading speed and performance](initiatives/initiative_2.md)
+* [Improve Usability](initiatives/initiative_1.md)
+* [Ensure Compliance](initiatives/initiative_2.md)
 
 ## Test plan
- * User testing to ensure easy access to resources and participation in online classes.
- * Lighthouse and W3C validation to ensure website accessibility and usability.
- * GDPR Scanner to ensure compliance with data protection laws.
+* Test the usability of the website by conducting user testing or surveys to gather feedback on the new navigation structure and searchability improvements.
+* Use W3C's validation tool to ensure that the website conforms to web standards and accessibility guidelines.
+* Use Google's Lighthouse tool to measure website performance and identify areas for improvement, such as page speed and load time.

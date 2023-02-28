@@ -1,18 +1,15 @@
 # Theme 1.0: Project Setup
+
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+As a student, I want to easily access educational resources and participate in online classes, so that I can learn from anywhere at any time. By developing a user-friendly interface and integrating web conferencing tools, we can create a dynamic online learning environment. This will enable us to expand our reach and provide more opportunities for education to people who may not have access otherwise. By following the Agile methodology and user-centered design principles, we can quickly and effectively develop a website that meets the needs of our users, setting us up for long-term success.
+
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_1.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Enhance website layout and visual design.](initiatives/initiative_1.md)
+* [Improve website loading speed and performance.](initiatives/initiative_2.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+* User testing to ensure easy access to resources and participation in online classes.
+* Lighthouse and W3C validation to ensure website accessibility and usability.
+* GDPR Scanner to ensure compliance with data protection laws.

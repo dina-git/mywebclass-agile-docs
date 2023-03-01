@@ -1,20 +1,21 @@
-## Initiative 1: Enhance website layout and visual design
+## Initiative 1: Improve Usability
 
-* Description: Develop a responsive design for the website
-* Goals: Create a website that is accessible and user-friendly on all devices
-* Scope: This initiative will cover the development and implementation of a responsive design for the website
-* Outcomes: The website will be optimized for all devices, leading to increased traffic and engagement
-* Deliverables: Responsive website design
-* Milestones: Complete wireframes and design mockups, implement responsive design across the website
-* Constraints: Limited budget for design and development
-* Assumptions: Users will access the website on a variety of devices
-* Risks: Incompatibility issues with certain devices or browsers
-* Dependencies: None
-* Team: Front-end developer, designer, project manager
+* Description: Improve the usability of the web page to enhance user experience.
+* Goals: Increase user satisfaction and engagement with the website.
+* Scope: Focus on improving website design and functionality.
+* Outcomes: Improved website usability, reduced bounce rates and increased conversions.
+* Deliverables: Improved website design, enhanced website functionality, better user interface and experience.
+* Milestones: Completion of design improvements, launch of updated website, evaluation of user feedback.
+* Constraints: Limited budget and resources for website improvements.
+* Assumptions: Users will respond positively to website design and functionality changes.
+* Risks: Negative user feedback or negative impact on website traffic from changes made.
+* Dependencies: Availability of website development team to make required changes.
+* Team: Web development team, user experience designers.
 
 ## Epics
-* [Improve website navigation and information layout](epics/epic_1.1.md)
+* [Improve Navigation](epics/epic_1.1.md)
 
 ## Test Plan
-* Test website on multiple devices (desktop, laptop, tablet, smartphone) to ensure responsive design
-* Use a browser compatibility testing tool to check for issues with different browsers
+* Usability testing with representative users
+* Accessibility testing to ensure compliance with accessibility guidelines
+* Testing across different devices and platforms to ensure a consistent user experience

@@ -4,8 +4,8 @@
 
 ## Initiative(s)
 
-* [Compliance with Data Protection Laws](intiatives/initiative_1.md)
-* [Compliance with Cookie Laws](intiatives/initiative_2.md)
+* [Protect User Data](intiatives/initiative_1.md)
+* [Ensure Compliance](intiatives/initiative_2.md)
 
 
 ## Test plan

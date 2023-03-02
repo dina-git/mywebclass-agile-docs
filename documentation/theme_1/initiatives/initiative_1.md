@@ -1,21 +1,27 @@
-## Initiative 1: Improve Usability
+## Initiative 2:  Improve website accessibility and performance.
 
-* Description: Improve the usability of the web page to enhance user experience.
-* Goals: Increase user satisfaction and engagement with the website.
-* Scope: Focus on improving website design and functionality.
-* Outcomes: Improved website usability, reduced bounce rates and increased conversions.
-* Deliverables: Improved website design, enhanced website functionality, better user interface and experience.
-* Milestones: Completion of design improvements, launch of updated website, evaluation of user feedback.
-* Constraints: Limited budget and resources for website improvements.
-* Assumptions: Users will respond positively to website design and functionality changes.
-* Risks: Negative user feedback or negative impact on website traffic from changes made.
-* Dependencies: Availability of website development team to make required changes.
-* Team: Web development team, user experience designers.
+* Description: Improve website accessibility and performance.
+* Goals: Enhance website usability and compliance.
+* User Stories:As a user, I want the website to be easily discoverable on Google and comply with Lighthouse accessibility standards.
+* Dependencies: Site structure and tags
+* Integration of Lighthouse audit tool with the website.
+* Access to website analytics to understand user behavior.
+* Delay in implementation due to complex website architecture.
+* Inability to meet all accessibility and compliance standards.
+* Estimated Effort: High.
+* Business Value: Integral to searchability
+* Improved website usability and accessibility for all users.
+* Higher search engine rankings and increased traffic from improved SEO.
+* Mitigating the risk of legal penalties for non-compliance with GDPR and other regulations.
+* Priority: High.
 
 ## Epics
 * [Improve Navigation](epics/epic_1.1.md)
+* [Improve website accessibility and performance.](epics/epic_1.2.md)
 
 ## Test Plan
-* Usability testing with representative users
-* Accessibility testing to ensure compliance with accessibility guidelines
-* Testing across different devices and platforms to ensure a consistent user experience
+Verify that each page on the website has a unique, descriptive page title tag.
+Manually check the website's HTML markup to ensure that it is well-formed and structured logically.
+Use a website crawling tool to check for broken links on the website.
+Use an SEO auditing tool, such as SEMrush or Ahrefs, to check for meta descriptions, header tags, alt tags, and other SEO elements on each page.
+

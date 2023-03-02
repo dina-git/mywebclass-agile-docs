@@ -12,7 +12,7 @@ As a developer, I want to optimize the website's code for performance and SEO so
 * Priority: High.
 
 
-## Epics
+## User Story
 * [As a developer, I want to ensure the webpage passes W3C validation to improve code quality](stories/story_2.1.1.md)
 
 ## Test plan

@@ -11,9 +11,9 @@ As a user, I want to be able to easily understand the structure of the website s
 * Priority: High.
 
 ## Epics
-* [As a user, I want to easily find what I am looking for on the webpage] (stories/story_1.1.1.md)
+* [As a user, I want to easily find what I am looking for on the webpage](stories/story_1.1.1.md)
 
-##Test plan
+## Test plan
 * Manual testing of all links and menus to ensure they are working and properly labeled.
 * Automated testing of the navigation menu on different screen sizes to ensure it is responsive and consistent.
 * Conduct user testing to gather feedback on the new navigation and make improvements based on the feedback.

@@ -1,4 +1,4 @@
-## Task 1
+## Task 2
 * Resolve any issues found by the validator tool to ensure compliance with W3C standards
 
 ## User Story

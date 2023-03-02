@@ -12,7 +12,7 @@
 * Mitigating the risk of legal penalties for non-compliance with GDPR and other regulations.
 * Priority: High.
 
-## Epics
+## User Story
 * [As a user, I want the website to be easily discoverable on Google and comply with Lighthouse accessibility standards.](stories/story_1.2.1.md)
 
 ## Test plan

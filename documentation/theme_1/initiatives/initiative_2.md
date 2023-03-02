@@ -1,27 +1,23 @@
-## Initiative 2:  Improve website accessibility and performance.
+## Initiative 2:  Ensure Compliance
 
-* Description: Improve website accessibility and performance.
-* Goals: Enhance website usability and compliance.
-* User Stories:As a user, I want the website to be easily discoverable on Google and comply with Lighthouse accessibility standards.
-* Dependencies: Site structure and tags
-* Integration of Lighthouse audit tool with the website.
-* Access to website analytics to understand user behavior.
-* Delay in implementation due to complex website architecture.
-* Inability to meet all accessibility and compliance standards.
-* Estimated Effort: High.
-* Business Value: Integral to searchability
-* Improved website usability and accessibility for all users.
-* Higher search engine rankings and increased traffic from improved SEO.
-* Mitigating the risk of legal penalties for non-compliance with GDPR and other regulations.
-* Priority: High.
+* Description: Ensure compliance with web standards, accessibility laws and industry regulations.
+* Goals: Avoid legal and regulatory penalties, enhance user trust and credibility of the website.
+* Scope: Review and assess compliance with web standards, accessibility laws and industry regulations.
+* Outcomes: Improved compliance with web standards and accessibility laws, reduced legal risks and penalties.
+* Deliverables: Compliance review report, documented compliance processes and procedures, updated website to meet compliance requirements.
+* Milestones: Completion of compliance review, implementation of compliance measures, assessment of compliance status.
+* Constraints: Limited budget and resources for compliance review and implementation.
+* Assumptions: Compliance requirements will not change significantly during the implementation process.
+* Risks: Non-compliance with web standards, accessibility laws and industry regulations, potential legal penalties and reputational damage.
+* Dependencies: Expertise in compliance standards and regulations, availability of budget and resources.
+* Team: Legal and compliance team, website development team, project managers.
 
 ## Epics
 * [Improve Navigation](epics/epic_2.1.md)
 * [Improve website accessibility and performance.](epics/epic_2.2.md)
 
 ## Test Plan
-Verify that each page on the website has a unique, descriptive page title tag.
-Manually check the website's HTML markup to ensure that it is well-formed and structured logically.
-Use a website crawling tool to check for broken links on the website.
-Use an SEO auditing tool, such as SEMrush or Ahrefs, to check for meta descriptions, header tags, alt tags, and other SEO elements on each page.
 
+* Automated testing to ensure compliance with W3C validation standards
+* Manual testing to ensure compliance with relevant regulations and guidelines (e.g. GDPR, CCPA)
+* Penetration testing to identify and address any security vulnerabilities

@@ -13,7 +13,7 @@
 * Priority: Medium
 
 ## User Stories
-* [As a content creator, I want my intellectual property to be protected when it is used on the website](stories/epic_1.2.1.md)
+* [As a content creator, I want my intellectual property to be protected when it is used on the website](stories/story_1.2.1.md)
 
 ## Test Plan
 * Review relevant copyright laws and guidelines to ensure compliance.

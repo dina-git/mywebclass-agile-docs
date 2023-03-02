@@ -1,4 +1,4 @@
-## User Story 2
+## User Story 1
 * "As a user, I want my personal data to be protected when I use the website"
 
 ## Acceptance Criteria

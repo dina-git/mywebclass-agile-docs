@@ -17,6 +17,6 @@
 * [Improve website accessibility and performance](epics/epic_1.2.md)
 
 ## Test plan
-* Automated testing to ensure compliance with W3C validation standards
-* Manual testing to ensure compliance with relevant regulations and guidelines (e.g. GDPR, CCPA)
-* Penetration testing to identify and address any security vulnerabilities
+* Usability testing with representative users
+* Ease of discoverability using Google search
+* Testing across different devices and platforms to ensure a consistent user experience

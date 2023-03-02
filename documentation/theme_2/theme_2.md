@@ -4,8 +4,8 @@
 
 ## Initiative(s)
 
-* [Protect User Data](intiatives/initiative_1.md)
-* [Ensure Compliance](intiatives/initiative_2.md)
+* [Ensure Compliance](intiatives/initiative_1.md)
+* [Protect User Data](intiatives/initiative_2.md)
 
 
 ## Test plan

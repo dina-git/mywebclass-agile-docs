@@ -12,7 +12,7 @@ As a website owner, I want to ensure that user data is collected, stored, and pr
 * Priority: High.
 
 
-## Epics
+## User Story
 * [As a user, I want to know that my personal data is being handled appropriately according to GDPR regulations](stories/story_2.2.1.md)
 
 ## Test plan

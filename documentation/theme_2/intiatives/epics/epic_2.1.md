@@ -13,7 +13,7 @@
 * Priority: High
 
 ## User Stories
-* [As a user, I want my personal data to be protected when I use the website](stories/epic_2.1.1.md)
+* [As a user, I want my personal data to be protected when I use the website](stories/story_2.1.1.md)
 
 ## Test Plan
 * Conduct a gap analysis to identify areas of non-compliance with relevant data protection laws (e.g., GDPR, CCPA).

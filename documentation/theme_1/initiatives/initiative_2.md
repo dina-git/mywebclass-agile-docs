@@ -16,8 +16,8 @@
 * Priority: High.
 
 ## Epics
-* [Improve Navigation](epics/epic_1.1.md)
-* [Improve website accessibility and performance.](epics/epic_1.2.md)
+* [Improve Navigation](epics/epic_2.1.md)
+* [Improve website accessibility and performance.](epics/epic_2.2.md)
 
 ## Test Plan
 Verify that each page on the website has a unique, descriptive page title tag.

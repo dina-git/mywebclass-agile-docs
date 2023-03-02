@@ -13,8 +13,8 @@
 * Team: Legal and compliance team, website development team, project managers.
 
 ## Epics
-* [Compliance with Accessibility Laws](epics/epic_2.1.md)
-* [Compliance with Copyright Laws](epics/epic_2.2.md)
+* [Compliance with Accessibility Laws](epics/epic_1.1.md)
+* [Compliance with Copyright Laws](epics/epic_1.2.md)
 
 ## Test Plan
 * Review and update privacy policy and terms of service to ensure compliance with relevant regulations (e.g. GDPR, CCPA)

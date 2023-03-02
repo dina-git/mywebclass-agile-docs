@@ -133,7 +133,7 @@ review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
 
-[Project Setup](documentation/theme_1/theme1.md)
+[Project Setup](documentation/themes.md)
 
 ## Release Schedule
 

@@ -1,6 +1,6 @@
 ## Task 2
 * Implement the new navigation structure using clear and concise labels to improve searchability
-*
+
 ## User Story
 "As a user, I want to easily find what I am looking for on the webpage."
 

@@ -17,7 +17,7 @@
 
 
 ## User Stories
-* [As a user, I want to be able to access the website regardless of my physical abilitiess](stories/epic_1.1.1.md)
+* [As a user, I want to be able to access the website regardless of my physical abilitiess](stories/story_1.1.1.md)
 
 ## Test Plan
 * Review the relevant accessibility laws and guidelines to ensure compliance.

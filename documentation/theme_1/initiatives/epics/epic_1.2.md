@@ -12,7 +12,7 @@
 * Priority: High.
 
 ## Epics
-* [ As a user, I want to easily find what I am looking for on the webpage] (stories/story_1.1.1.md)
+* [As a user, I want to easily find what I am looking for on the webpage] (stories/story_1.1.1.md)
 
 ## Test plan
 * Manual testing of all links and menus to ensure they are working and properly labeled.

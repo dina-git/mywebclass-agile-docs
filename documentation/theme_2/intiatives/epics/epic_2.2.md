@@ -13,7 +13,7 @@
 * Priority: Medium
 
 ## User Stories
-* [As a user, I want to be informed about the use of cookies on the website and have the ability to manage my preferences](stories/epic_2.2.1.md)
+* [As a user, I want to be informed about the use of cookies on the website and have the ability to manage my preferences](stories/story_2.2.1.md)
 
 ## Test Plan
 * Review relevant cookie laws and guidelines to ensure compliance.

@@ -1,20 +1,22 @@
-## Epic 1: Improve Navigation
+## Epic 2: Improve website accessibility and performance.
 
-* Description: Improve the website's navigation to make it more intuitive and user-friendly.
-* Goals: Improve user experience by making it easier to navigate the website.
-* User Stories:
-* As a user, I want to be able to find the information I need quickly and easily so that I can accomplish my goals efficiently.
-* As a user, I want to be able to easily understand the structure of the website so that I can navigate it without confusion.
-* Dependencies: None identified.
-* Risks: There is a risk that changes to the navigation could inadvertently make the website more difficult to use.
-* Estimated Effort: 20 hours.
-* Business Value: Improved user satisfaction and increased website usage.
+* Goals: Enhance website usability and compliance.
+* User Stories:As a user, I want the website to be easily discoverable on Google and comply with Lighthouse accessibility standards.
+* Integration of Lighthouse audit tool with the website.
+* Access to website analytics to understand user behavior.
+* Delay in implementation due to complex website architecture.
+* Inability to meet all accessibility and compliance standards.
+* Estimated Effort: High.
+* Improved website usability and accessibility for all users.
+* Higher search engine rankings and increased traffic from improved SEO.
+* Mitigating the risk of legal penalties for non-compliance with GDPR and other regulations.
 * Priority: High.
 
 ## Epics
-* [As a user, I want to easily find what I am looking for on the webpage] (stories/story_1.1.1.md)
+* [As a user, I want the website to be easily discoverable on Google and comply with Lighthouse accessibility standards.](stories/story_1.2.1.md)
 
 ## Test plan
-* Manual testing of all links and menus to ensure they are working and properly labeled.
-* Automated testing of the navigation menu on different screen sizes to ensure it is responsive and consistent.
-* Conduct user testing to gather feedback on the new navigation and make improvements based on the feedback.
+* Verify that each page on the website has a unique, descriptive page title tag.
+* Manually check the website's HTML markup to ensure that it is well-formed and structured logically.
+* Use a website crawling tool to check for broken links on the website.
+* Use an SEO auditing tool, such as SEMrush or Ahrefs, to check for meta descriptions, header tags, alt tags, and other SEO elements on each page.

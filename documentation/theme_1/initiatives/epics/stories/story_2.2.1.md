@@ -5,5 +5,5 @@
 * The webpage passes W3C validation for HTML and CSS without any errors or warnings.
 
 ## Tasks
-* [Use a validator tool to check for errors and warnings](tasks/task_2.2.2.1.md)
-* [Resolve any issues found by the validator tool to ensure compliance with W3C standards.](tasks/task_2.2.2.2.md)
+* [Use a validator tool to check for errors and warnings](tasks/task_2.2.1.1.md)
+* [Resolve any issues found by the validator tool to ensure compliance with W3C standards.](tasks/task_2.2.1.2.md)

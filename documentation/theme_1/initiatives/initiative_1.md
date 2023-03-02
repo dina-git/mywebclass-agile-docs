@@ -13,7 +13,7 @@
 * Team: Legal and compliance team, website development team, project managers.
 
 ## Epics
-* [Improve Navigation](epics/epic_1.2.md)
+* [Improve Navigation](epics/epic_1.1.md)
 * [Improve website accessibility and performance](epics/epic_1.2.md)
 
 ## Test plan

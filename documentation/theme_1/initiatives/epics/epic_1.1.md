@@ -10,7 +10,7 @@ As a user, I want to be able to easily understand the structure of the website s
 * Business Value: Improved user satisfaction and increased website usage.
 * Priority: High.
 
-## Epics
+## User Stories
 * [As a user, I want to easily find what I am looking for on the webpage](stories/story_1.1.1.md)
 
 ## Test plan

@@ -1,6 +1,6 @@
 ## Initiative 1: Improve Usability
 
-* Description: Ensure compliance with web standards, accessibility laws and industry regulations.
+* Description: Ensure compliance with web standards, LEAN and Agile methodologies, accessibility laws and industry regulations.
 * Goals: Avoid legal and regulatory penalties, enhance user trust and credibility of the website.
 * Scope: Review and assess compliance with web standards, accessibility laws and industry regulations.
 * Outcomes: Improved compliance with web standards and accessibility laws, reduced legal risks and penalties.

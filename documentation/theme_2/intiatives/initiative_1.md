@@ -1,4 +1,4 @@
-## Initiative 1: Ensure Compliance
+## Initiative 1: Ensure Legal Compliance
 
 * Description: Ensure compliance with privacy laws and protect user data.
 * Goals: Comply with privacy laws, protect user data, and build user trust.

@@ -1,4 +1,4 @@
-## Initiative 2:  Ensure Compliance
+## Initiative 2:  Compliance with Web Standards
 
 * Description: Ensure compliance with web standards, accessibility laws and industry regulations.
 * Goals: Avoid legal and regulatory penalties, enhance user trust and credibility of the website.

@@ -6,4 +6,4 @@
 
 ## Tasks
 * [Review all data collected by the website to ensure it is necessary and lawfully obtained](tasks/task_2.1.1.1.md)
-* [ Implement an easily accessable privacy policy that clearly outlines how user data is collected, stored, and used, and obtain user consent for data collection and processing where necessary](tasks/task_2.1.1.2.md)
+* [Implement an easily accessible privacy policy that clearly outlines how user data is collected, stored, and used, and obtain user consent for data collection and processing where necessary](tasks/task_2.1.1.2.md)

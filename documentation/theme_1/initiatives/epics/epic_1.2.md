@@ -20,3 +20,4 @@
 * Manually check the website's HTML markup to ensure that it is well-formed and structured logically.
 * Use a website crawling tool to check for broken links on the website.
 * Use an SEO auditing tool, such as SEMrush or Ahrefs, to check for meta descriptions, header tags, alt tags, and other SEO elements on each page.
+* Ensure within W3C spec that it is ARIA Compliant - Accessible Rich Internet Applications (ARIA)

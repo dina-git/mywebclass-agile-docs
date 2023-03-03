@@ -10,3 +10,4 @@
 * Test the usability of the website by conducting user testing or surveys to gather feedback on the new navigation structure and searchability improvements.
 * Use W3C's validation tool to ensure that the website conforms to web standards and accessibility guidelines.
 * Use Google's Lighthouse tool to measure website performance and identify areas for improvement, such as page speed and load time.
+* Playwright testing for Continuous Integration
